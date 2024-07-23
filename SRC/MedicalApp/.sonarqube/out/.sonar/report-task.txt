@@ -1,0 +1,6 @@
+projectKey=MedicalApp
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=MedicalApp
+ceTaskId=76817c98-05c2-4e8a-b0b4-8f237f527ebe
+ceTaskUrl=http://localhost:9000/api/ce/task?id=76817c98-05c2-4e8a-b0b4-8f237f527ebe

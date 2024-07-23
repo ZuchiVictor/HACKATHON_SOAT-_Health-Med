@@ -1,0 +1,15 @@
+l
+aC:\Users\victo\Downloads\hacka\MedicalApp.Tests\obj\Debug\net8.0\MedicalApp.Tests.AssemblyInfo.csutf-8z
+oC:\Users\victo\Downloads\hacka\MedicalApp.Tests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8n
+cC:\Users\victo\Downloads\hacka\MedicalApp.Tests\obj\Debug\net8.0\MedicalApp.Tests.GlobalUsings.g.csutf-8}
+rC:\Users\victo\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8Y
+PC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\ScheduleControllerTests.csutf-8]
+TC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\DoctorSearchControllerTests.csutf-8X
+OC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\BookingControllerTests.csutf-8U
+LC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AuthControllerTests.csutf-8P
+GC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AuthController.csutf-8\
+SC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AppointmentControllerTests.csutf-8Q
+HC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\RegisterRequest.csutf-8N
+EC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\LoginRequest.csutf-8P
+GC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\BookingRequest.csutf-8Q
+HC:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\ApplicationUser.csutf-8

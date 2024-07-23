@@ -1,0 +1,17 @@
+﻿C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\ApplicationUser.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\BookingRequest.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\LoginRequest.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Model\RegisterRequest.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AppointmentControllerTests.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AuthController.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\AuthControllerTests.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\BookingControllerTests.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\DoctorSearchControllerTests.cs
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\Teste\ScheduleControllerTests.cs
+C:\Users\victo\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\victo\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\victo\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\victo\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\victo\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\victo\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\victo\Downloads\hacka\MedicalApp.Tests\TestResults\e47402c3-4f27-46ac-8cbb-cfed83d5ba22\coverage.cobertura.xml

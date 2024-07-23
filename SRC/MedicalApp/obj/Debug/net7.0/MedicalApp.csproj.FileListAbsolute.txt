@@ -1,0 +1,7 @@
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.AssemblyInfo.cs
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\victo\Downloads\hacka\MedicalApp\obj\Debug\net7.0\MedicalApp.MvcApplicationPartsAssemblyInfo.cache
